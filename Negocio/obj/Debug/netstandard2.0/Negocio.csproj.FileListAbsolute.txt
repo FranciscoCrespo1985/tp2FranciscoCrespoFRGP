@@ -1,0 +1,12 @@
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\obj\Debug\netstandard2.0\Negocio.csprojAssemblyReference.cache
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CoreCompileInputs.cache
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfoInputs.cache
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfo.cs
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\bin\Debug\netstandard2.0\Negocio.deps.json
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\bin\Debug\netstandard2.0\Negocio.dll
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\bin\Debug\netstandard2.0\Negocio.pdb
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\bin\Debug\netstandard2.0\Dominio.dll
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\bin\Debug\netstandard2.0\Dominio.pdb
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CopyComplete
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\obj\Debug\netstandard2.0\Negocio.dll
+D:\Workspace\Repos\TP2_CrespoFrancisco\Negocio\obj\Debug\netstandard2.0\Negocio.pdb
